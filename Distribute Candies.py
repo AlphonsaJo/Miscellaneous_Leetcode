@@ -7,5 +7,14 @@ Approach
 1) Find the length of the list of candies
 2) Generate a new iterable using set to store 1 instance of each type of candy
 3) Find th minimum between both and return the minimum value
+
+
 '''
 
+class Solution(object):
+    def distributeCandies(self, candyType):
+        types_of_candies = len(set(candyType))
+        max_possible_to_eat = len(candyType) // 2
+
+        min_candies = min(max_possible_to_eat, types_of_candies)
+        return min_candies
