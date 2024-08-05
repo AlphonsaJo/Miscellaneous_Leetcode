@@ -4,7 +4,7 @@ The doctor advised Alice to only eat n / 2 of the candies she has (n is always e
 Given the integer array candyType of length n, return the maximum number of different types of candies she can eat if she only eats n / 2 of them.
 
 Approach
-1) Find the length of the list of candies
+1) Find the 1/2th length of the given list of candies
 2) Generate a new iterable using set to store 1 instance of each type of candy
 3) Find th minimum between both and return the minimum value
 
