@@ -18,6 +18,11 @@ sortList = lambda x: (sorted(i) for i in x)
 secondLargest = lambda x, f : [y[len(y)-2] for y in f(x)]
 res = secondLargest(List, sortList)
 
+#filter
+li = [5, 7, 22, 97, 54, 62, 77, 23, 73, 61]
+final_list = list(filter(lambda x: (x % 2 != 0), li))
+print(final_list)
+
 #Filter
 li = [5, 7, 22, 97, 54, 62, 77, 23, 73, 61]
 final_list = list(filter(lambda x: (x % 2 != 0), li))
