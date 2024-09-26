@@ -4,7 +4,13 @@ https://leetcode.com/problemset/  ✨
 
 Interview POV questions:
 
+Traingle Based Question:
+
+https://leetcode.com/problems/valid-triangle-number/description/
+
 https://leetcode.com/problems/triangle/description/
+
+Dominos Questions:
 
 https://www.hackerearth.com/problem/algorithm/dominoes-1/
 
