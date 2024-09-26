@@ -2,6 +2,7 @@ https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduc
 
 https://leetcode.com/problemset/  ✨
 
+https://www.hackerearth.com/problem/algorithm/dominoes-1/
 
 ![image](https://github.com/user-attachments/assets/b99661e1-d15e-4158-873d-8f9d5a5c4e57)
 
