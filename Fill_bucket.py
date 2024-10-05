@@ -1,3 +1,0 @@
-'''
-Fill bucket with water
-'''
