@@ -27,5 +27,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
