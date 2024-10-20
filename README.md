@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0001-two-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
