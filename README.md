@@ -39,5 +39,14 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
