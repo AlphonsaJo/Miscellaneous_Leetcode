@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0605-can-place-flowers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
