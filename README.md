@@ -41,10 +41,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Memoization
 |  |
 | ------- |
