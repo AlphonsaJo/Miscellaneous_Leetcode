@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0605-can-place-flowers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
