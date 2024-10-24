@@ -1,15 +1,14 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        
-        last_non_zero_index = 0
+        n = len(nums)
+        i = 0  # Pointer for the current position to check
 
-    
-        for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[last_non_zero_index] = nums[i]
-                last_non_zero_index += 1
+        # Process the array
+        for j in range(n):
+            if nums[j] != 0:
+                nums[i], nums[j] = nums[j], nums[i]
+                i += 1  # Move the pointer for non-zero elements
 
-        for i in range(last_non_zero_index, len(nums)):
-            nums[i] = 0
+        return nums
 
-        print(nums) 
+
