@@ -14,6 +14,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0392-is-subsequence](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sorting
 |  |
 | ------- |
