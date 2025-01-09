@@ -15,6 +15,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -100,4 +102,20 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
