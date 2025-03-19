@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -105,6 +106,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0206-reverse-linked-list) |
 ## Trie
 |  |
