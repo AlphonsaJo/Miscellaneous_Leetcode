@@ -23,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -163,4 +165,8 @@
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0975-range-sum-of-bst) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
