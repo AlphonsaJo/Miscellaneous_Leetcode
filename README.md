@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0383-ransom-note) |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -108,6 +110,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
