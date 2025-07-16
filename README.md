@@ -53,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -84,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
