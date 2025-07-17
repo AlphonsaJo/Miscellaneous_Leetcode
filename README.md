@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0011-container-with-most-water) |
+| [0217-contains-duplicate](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -25,6 +26,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -109,6 +111,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0217-contains-duplicate) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
