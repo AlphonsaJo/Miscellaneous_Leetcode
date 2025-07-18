@@ -70,6 +70,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -82,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -180,4 +182,12 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
