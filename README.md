@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -172,12 +173,14 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0975-range-sum-of-bst) |
