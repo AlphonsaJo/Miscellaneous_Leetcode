@@ -5,17 +5,15 @@
  * @return {Function}
  */
 var cancellable = function(fn, args, t) {
+   fn(...args);
 
-    fn(...args);
-    const timerId = setInterval(() => {
+   const timerid = setInterval(() => {
         fn(...args);
-    }, t);
+   }, t);
 
-    // Return a cancel function that clears the timeout
-    return function cancelFn() {
-        clearInterval(timerId);
-    };
-
+   return function cancelFn(){
+        clearInterval(timerid);
+   } 
 };
 
 /**
