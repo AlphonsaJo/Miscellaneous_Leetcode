@@ -27,6 +27,7 @@
 | [0141-linked-list-cycle](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -73,6 +74,7 @@
 | [0067-add-binary](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0392-is-subsequence) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
