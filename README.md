@@ -89,6 +89,7 @@
 | [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@
 | [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Memoization
@@ -104,6 +106,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
