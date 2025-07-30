@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,4 +214,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0067-add-binary) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AlphonsaJo/Miscellaneous_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
